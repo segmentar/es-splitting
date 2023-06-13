@@ -1,0 +1,25 @@
+﻿
+	O META o no unused namespace(s)
+
+	O TYPE o no unused namespace(s)
+
+	O LINK o no unused namespace(s)
+
+sequence Predicate
+
+	>Compress
+	<<PredicateCompress.cs
+
+	>CompressRaw
+	<<PredicateCompressRaw.cs
+
+	>Object
+	>>PredicateObject
+	<<<PredicateObject.cs
+
+	>Prototype
+	<<PredicatePrototype.cs
+
+	<Predicate.cs
+
+end sequence

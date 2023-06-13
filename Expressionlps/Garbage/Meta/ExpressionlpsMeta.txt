@@ -1,0 +1,25 @@
+﻿
+	O META o no unused namespace(s)
+
+	O TYPE o no unused namespace(s)
+
+	O LINK o no unused namespace(s)
+
+sequence Expressionlps
+
+	>Compress
+	<<ExpressionlpsCompress.cs
+
+	>CompressRaw
+	<<ExpressionlpsCompressRaw.cs
+
+	>Object
+	>>ExpressionlpsObject
+	<<<ExpressionlpsObject.cs
+
+	>Prototype
+	<<ExpressionlpsPrototype.cs
+
+	<Expressionlps.cs
+
+end sequence

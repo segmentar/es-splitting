@@ -1,0 +1,25 @@
+﻿
+	O META o no unused namespace(s)
+
+	O TYPE o no unused namespace(s)
+
+	O LINK o no unused namespace(s)
+
+sequence Symbollps
+
+	>Compress
+	<<SymbollpsCompress.cs
+
+	>CompressRaw
+	<<SymbollpsCompressRaw.cs
+
+	>Object
+	>>SymbollpsObject
+	<<<SymbollpsObject.cs
+
+	>Prototype
+	<<SymbollpsPrototype.cs
+
+	<Symbollps.cs
+
+end sequence

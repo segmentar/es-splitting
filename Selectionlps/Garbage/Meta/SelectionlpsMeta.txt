@@ -1,0 +1,21 @@
+﻿
+	O META o no unused namespace(s)
+
+	O TYPE o no unused namespace(s)
+
+	O LINK o no unused namespace(s)
+
+sequence Selectionlps
+
+	>Compress
+	<<SelectionlpsCompress.cs
+
+	>CompressRaw
+	<<SelectionlpsCompressRaw.cs
+
+	>Prototype
+	<<SelectionlpsPrototype.cs
+
+	<Selectionlps.cs
+
+end sequence
